@@ -3,4 +3,4 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T416DT1)
 
 # pso-highres-hud-font-resource-pack
-High Resolution HUD font for PSOGC
+High Resolution HUD font for Phantasy Star Online Ep. I&II (& Plus). Does not work on real hardware.
