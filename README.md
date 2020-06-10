@@ -6,5 +6,6 @@
 High Resolution HUD Font for Phantasy Star Online Ep. I&II (& Plus). Does not work on real hardware.
 
 [Download Latest Version](https://github.com/eleriaqueen/pso-highres-hud-font-resource-pack/releases)
+(Get the one tagged 'compat' if you have an older graphics card)
 
 [![GPOP8-P-2020-06-10-14-34-19.png](https://i.postimg.cc/02YcggHt/GPOP8-P-2020-06-10-14-34-19.png)](https://postimg.cc/MvGyRLwR)
