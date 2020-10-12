@@ -2,7 +2,7 @@
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T416DT1)
 
-# PSO Highres Hud Font Resource Pack
+# PSO Highres Hud Font
 Fan-made High Resolution HUD Font for Phantasy Star Online Ep. I&II (& Plus).
 
 Available for downlad as a _Resource Pack_ compatible with Dolphin emulator.
