@@ -11,7 +11,9 @@ __Does not work on real hardware__
 
 [Download Latest Version](https://github.com/eleriaqueen/pso-highres-hud-font-resource-pack/releases)
 
-[![GPOP8-P-2020-06-10-14-34-19.png](https://i.postimg.cc/02YcggHt/GPOP8-P-2020-06-10-14-34-19.png)](https://postimg.cc/MvGyRLwR)
+[![Capture017-PSO-New-HD-Font-IMG.png](https://i.postimg.cc/bNvj6zrD/Capture017-PSO-New-HD-Font-IMG.png)](https://postimg.cc/Cd9t5pjS)
+
+[![Capture016-PSO-New-HD-Menu-Txt.png](https://i.postimg.cc/k4Wh1SNF/Capture016-PSO-New-HD-Menu-Txt.png)](https://postimg.cc/tZC57YMY)
 
 # Legal
 Phantasy Star Online is a registered trademark of SEGA in the United States and other countries.
